@@ -1,0 +1,41 @@
+body {
+    background: url(image/p4.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+.bg{
+    height: 35vh;
+}
+.bg1{
+    background-color: aliceblue;
+    border-radius: 20px;
+    
+}
+.pad{
+    padding-top: 60px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color:whitesmoke ;
+    padding-top: 10px;
+}
+
+.nav{
+    background-color:gray;
+    color: turquoise;
+}
+
+/* ############ navbar */
+
+.navbar-brand{
+    font-weight: bold; 
+    font-size: 22px;
+    margin-left: 50px;
+} 
+.nav-link {
+    font-weight: bold; 
+    font-size: 18px;
+    margin-left: 50px;
+}
